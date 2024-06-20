@@ -1,0 +1,6 @@
+WELCOME_MESSAGE = "Shalom, welcome to E-Shop!"
+REGISTRATION_PROMPT = "Shalom! Let's make registration!\nEnter your name"
+SEND_NUMBER_PROMPT = "Cool, and now send a number!"
+SEND_LOCATION_PROMPT = "And now location too"
+REGISTRATION_COMPLETE = "Registration complete!"
+CHOOSE_PRODUCT = "Choose a product:"
